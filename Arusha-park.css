@@ -1,0 +1,728 @@
+ .u-section-1 {
+  background-image: linear-gradient(0deg, rgba(103,91,73,0.5), rgba(103,91,73,0.5)), url("/images/Arusha_National_Park-_Flamingos_at_Momella_Lake.jpg");
+  background-position: 50% 50%;
+}
+
+.u-section-1 .u-sheet-1 {
+  min-height: 50vw;
+}
+
+.u-section-1 .u-layout-wrap-1 {
+  margin-top: 27px;
+  margin-bottom: 0;
+}
+
+.u-section-1 .u-layout-cell-1 {
+  min-height: 396px;
+}
+
+.u-section-1 .u-container-layout-1 {
+  padding: 0;
+}
+
+.u-section-1 .u-image-1 {
+  height: 397px;
+  box-shadow: 5px 5px 20px 0 rgba(0,0,0,0.2);
+  margin: -5px auto 0 100px;
+}
+
+.u-section-1 .u-image-2 {
+  min-height: 360px;
+  background-image: url("/images/Blue_monkey_Cercopithecus_mitis_Arusha_National_Park_2015_-_2015-01-10_-_02-26-26.jpg");
+  background-position: 50% 50%;
+}
+
+.u-section-1 .u-container-layout-2 {
+  box-shadow: 5px 5px 20px 0 rgba(0,0,0,0.2);
+  padding: 20px;
+}
+
+.u-section-1 .u-layout-cell-3 {
+  min-height: 756px;
+  --animation-custom_in-translate_x: 0px;
+  --animation-custom_in-translate_y: 0px;
+  --animation-custom_in-opacity: 0.5;
+  --animation-custom_in-rotate: 0deg;
+  --animation-custom_in-scale: 1.1;
+}
+
+.u-section-1 .u-container-layout-3 {
+  padding: 100px 0 0;
+}
+
+.u-section-1 .u-image-3 {
+  height: 518px;
+  box-shadow: 5px 5px 20px 0 rgba(0,0,0,0.2);
+  margin-top: 66px;
+  margin-bottom: 0;
+}
+
+.u-section-1 .u-group-1 {
+  min-height: 361px;
+  width: 442px;
+  --animation-custom_in-translate_x: -400px;
+  --animation-custom_in-translate_y: 0px;
+  --animation-custom_in-opacity: 0;
+  --animation-custom_in-rotate: 180deg;
+  --animation-custom_in-scale: 1;
+  margin: -528px 334px 60px auto;
+}
+
+.u-section-1 .u-container-layout-4 {
+  padding: 30px 25px;
+}
+
+.u-section-1 .u-text-1 {
+  font-size: 2.25rem;
+  background-image: none;
+  margin: 27px 31px 0;
+}
+
+.u-section-1 .u-text-2 {
+  margin: 48px 5px 0;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 826px;
+  }
+
+  .u-section-1 .u-layout-cell-1 {
+    min-height: 427px;
+  }
+
+  .u-section-1 .u-image-1 {
+    height: 327px;
+    margin-right: initial;
+    margin-left: initial;
+  }
+
+  .u-section-1 .u-image-2 {
+    min-height: 297px;
+  }
+
+  .u-section-1 .u-layout-cell-3 {
+    min-height: 623px;
+  }
+
+  .u-section-1 .u-container-layout-3 {
+    padding-top: 64px;
+    padding-bottom: 64px;
+  }
+
+  .u-section-1 .u-image-3 {
+    height: 427px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 668px;
+  }
+
+  .u-section-1 .u-layout-cell-1 {
+    min-height: 250px;
+  }
+
+  .u-section-1 .u-image-1 {
+    height: 250px;
+    margin-right: initial;
+    margin-left: initial;
+  }
+
+  .u-section-1 .u-image-2 {
+    min-height: 227px;
+  }
+
+  .u-section-1 .u-layout-cell-3 {
+    min-height: 578px;
+  }
+
+  .u-section-1 .u-container-layout-3 {
+    padding-top: 0;
+    padding-bottom: 0;
+  }
+
+  .u-section-1 .u-image-3 {
+    height: 327px;
+  }
+
+  .u-section-1 .u-group-1 {
+    margin-right: 278px;
+  }
+
+  .u-section-1 .u-container-layout-4 {
+    padding-top: 19px;
+    padding-bottom: 19px;
+  }
+
+  .u-section-1 .u-text-1 {
+    width: auto;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 1707px;
+  }
+
+  .u-section-1 .u-layout-cell-1 {
+    min-height: 375px;
+  }
+
+  .u-section-1 .u-image-1 {
+    height: 375px;
+    margin-right: initial;
+    margin-left: initial;
+  }
+
+  .u-section-1 .u-image-2 {
+    min-height: 458px;
+  }
+
+  .u-section-1 .u-container-layout-2 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-1 .u-layout-cell-3 {
+    min-height: 671px;
+  }
+
+  .u-section-1 .u-container-layout-3 {
+    padding-bottom: 10px;
+  }
+
+  .u-section-1 .u-image-3 {
+    height: 491px;
+  }
+
+  .u-section-1 .u-group-1 {
+    margin-right: 98px;
+  }
+
+  .u-section-1 .u-container-layout-4 {
+    padding: 20px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 1129px;
+  }
+
+  .u-section-1 .u-layout-cell-1 {
+    min-height: 236px;
+  }
+
+  .u-section-1 .u-image-1 {
+    height: 236px;
+    margin-right: initial;
+    margin-left: initial;
+  }
+
+  .u-section-1 .u-image-2 {
+    min-height: 343px;
+  }
+
+  .u-section-1 .u-layout-cell-3 {
+    min-height: 459px;
+  }
+
+  .u-section-1 .u-container-layout-3 {
+    padding-bottom: 0;
+  }
+
+  .u-section-1 .u-image-3 {
+    height: 309px;
+  }
+
+  .u-section-1 .u-group-1 {
+    margin-top: -573px;
+    margin-right: initial;
+    margin-left: initial;
+    width: auto;
+  }
+
+  .u-section-1 .u-text-1 {
+    margin-left: 0;
+    margin-right: 0;
+    font-size: 1.5rem;
+  }
+
+  .u-section-1 .u-text-2 {
+    margin-left: 0;
+    margin-right: 0;
+  }
+}.u-section-2 .u-sheet-1 {
+  min-height: 581px;
+}
+
+.u-section-2 .u-text-1 {
+  text-decoration: underline !important;
+  margin: 4px auto 0 0;
+}
+
+.u-section-2 .u-list-1 {
+  margin-top: 4px;
+  margin-bottom: 60px;
+  grid-template-rows: auto;
+}
+
+.u-section-2 .u-repeater-1 {
+  grid-template-columns: calc(33.3333% - 1.33333px) calc(33.3333% - 1.33333px) calc(33.3333% - 1.33333px);
+  grid-gap: 2px 2px;
+}
+
+.u-section-2 .u-image-1 {
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.25), rgba(0,0,0,0.25)), url("/images/Colobus_guereza_Mantelaffen.jpg");
+  background-position: 50% 50%;
+}
+
+.u-section-2 .u-container-layout-1 {
+  padding: 30px;
+}
+
+.u-section-2 .u-text-2 {
+  margin-left: 0;
+  margin-bottom: 0;
+  margin-top: 270px;
+}
+
+.u-section-2 .u-text-3 {
+  margin-left: 0;
+  margin-bottom: 0;
+  margin-top: 20px;
+}
+
+.u-section-2 .u-image-2 {
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.25), rgba(0,0,0,0.25)), url("/images/Directional_sign_within_Arusha_National_Park_2015-01-10.jpg");
+  background-position: 50% 50%;
+}
+
+.u-section-2 .u-container-layout-2 {
+  padding: 30px;
+}
+
+.u-section-2 .u-text-4 {
+  margin-left: 0;
+  margin-bottom: 0;
+  margin-top: 270px;
+}
+
+.u-section-2 .u-text-5 {
+  margin-left: 0;
+  margin-bottom: 0;
+  margin-top: 20px;
+}
+
+.u-section-2 .u-image-3 {
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.25), rgba(0,0,0,0.25)), url("/images/Giraffe_zebra_and_buffalo_Arusha_NP_2015_-_2015-01-10.jpg");
+  background-position: 50% 50%;
+}
+
+.u-section-2 .u-container-layout-3 {
+  padding: 30px;
+}
+
+.u-section-2 .u-text-6 {
+  margin-left: 0;
+  margin-bottom: 0;
+  margin-top: 270px;
+}
+
+.u-section-2 .u-text-7 {
+  margin-left: 0;
+  margin-bottom: 0;
+  margin-top: 20px;
+}
+
+.u-section-2 .u-image-4 {
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.25), rgba(0,0,0,0.25)), url("/images/Arusha_National_Park-_Flamingos_at_Momella_Lake_2.jpg");
+  background-position: 50% 50%;
+}
+
+.u-section-2 .u-container-layout-4 {
+  padding: 30px;
+}
+
+.u-section-2 .u-text-8 {
+  margin-left: 0;
+  margin-bottom: 0;
+  margin-top: 270px;
+}
+
+.u-section-2 .u-text-9 {
+  margin-left: 0;
+  margin-bottom: 0;
+  margin-top: 20px;
+}
+
+.u-section-2 .u-image-5 {
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.25), rgba(0,0,0,0.25)), url("/images/fddff.jpg");
+  background-position: 50% 50%;
+}
+
+.u-section-2 .u-container-layout-5 {
+  padding: 30px;
+}
+
+.u-section-2 .u-text-10 {
+  margin-left: 0;
+  margin-bottom: 0;
+  margin-top: 270px;
+}
+
+.u-section-2 .u-text-11 {
+  margin-left: 0;
+  margin-bottom: 0;
+  margin-top: 20px;
+}
+
+@media (max-width: 991px) {
+  .u-section-2 .u-repeater-1 {
+    grid-template-columns: calc(50% - 1px) calc(50% - 1px);
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-2 .u-repeater-1 {
+    grid-template-columns: 100%;
+  }
+} .u-section-3 {
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("/images/Blue_monkey_Cercopithecus_mitis_Arusha_National_Park_2015_-_2015-01-10_-_02-26-26.jpg");
+  background-position: 50% 50%;
+}
+
+.u-section-3 .u-sheet-1 {
+  min-height: 50vw;
+}
+
+.u-section-3 .u-text-1 {
+  text-transform: uppercase;
+  font-size: 6rem;
+  font-weight: 700;
+  margin: 223px auto 0 20px;
+}
+
+.u-section-3 .u-text-2 {
+  margin: 30px 97px 60px 20px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-3 .u-text-1 {
+    margin-left: 0;
+  }
+
+  .u-section-3 .u-text-2 {
+    margin-left: 0;
+    margin-right: 0;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-3 .u-text-1 {
+    font-size: 3.75rem;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-3 .u-text-1 {
+    font-size: 3rem;
+  }
+}.u-block-f8b4-2 {
+  position: absolute;
+  bottom: 10px;
+}
+
+.u-block-f8b4-3 {
+  position: absolute;
+  left: 0;
+}
+
+.u-block-f8b4-4 {
+  position: absolute;
+  right: 0;
+}
+
+ .u-section-4-1 {
+  background-image: url("/images/Arusha_National_Park-_Flamingos_at_Momella_Lake.jpg");
+  background-position: 50% 50%;
+}
+
+.u-section-4-1 .u-sheet-1 {
+  min-height: 708px;
+}
+
+.u-section-4-1 .u-text-1 {
+  font-weight: 600;
+  text-transform: uppercase;
+  font-family: Oswald, sans-serif;
+  font-size: 6.875rem;
+  margin: 88px 0 0 428px;
+}
+
+.u-section-4-1 .u-text-2 {
+  letter-spacing: 2px;
+  text-transform: none;
+  font-size: 1.5rem;
+  font-weight: 400;
+  margin: 7px 0 60px 1017px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-4-1 .u-sheet-1 {
+    min-height: 584px;
+  }
+
+  .u-section-4-1 .u-text-1 {
+    margin-left: 228px;
+  }
+
+  .u-section-4-1 .u-text-2 {
+    margin-left: 817px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-4-1 .u-sheet-1 {
+    min-height: 447px;
+  }
+
+  .u-section-4-1 .u-text-1 {
+    font-size: 6rem;
+    margin-left: 8px;
+  }
+
+  .u-section-4-1 .u-text-2 {
+    margin-left: 597px;
+  }
+}
+
+@media (max-width: 767px) {
+   .u-section-4-1 {
+    background-position: 100% 50%;
+  }
+
+  .u-section-4-1 .u-sheet-1 {
+    min-height: 335px;
+  }
+
+  .u-section-4-1 .u-text-1 {
+    font-size: 5rem;
+    margin-left: 0;
+  }
+
+  .u-section-4-1 .u-text-2 {
+    font-size: 1rem;
+    margin-left: 417px;
+  }
+}
+
+@media (max-width: 575px) {
+   .u-section-4-1 {
+    background-position: 57.82% 50%;
+  }
+
+  .u-section-4-1 .u-sheet-1 {
+    min-height: 381px;
+  }
+
+  .u-section-4-1 .u-text-1 {
+    font-size: 3.75rem;
+    margin-top: 44px;
+  }
+
+  .u-section-4-1 .u-text-2 {
+    width: auto;
+    margin-left: 103px;
+  }
+}
+
+ .u-section-4-2 {
+  background-image: url("/images/2880px-Directional_sign_within_Arusha_National_Park_2015-01-10.jpg");
+  background-position: 50% 50%;
+}
+
+.u-section-4-2 .u-sheet-1 {
+  min-height: 708px;
+}
+
+.u-section-4-2 .u-text-1 {
+  font-weight: 600;
+  text-transform: uppercase;
+  font-family: Oswald, sans-serif;
+  font-size: 6.875rem;
+  margin: 88px 0 0 428px;
+}
+
+.u-section-4-2 .u-text-2 {
+  letter-spacing: 2px;
+  text-transform: none;
+  font-size: 1.5rem;
+  font-weight: 400;
+  margin: 7px 0 60px 1017px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-4-2 .u-sheet-1 {
+    min-height: 584px;
+  }
+
+  .u-section-4-2 .u-text-1 {
+    margin-left: 228px;
+  }
+
+  .u-section-4-2 .u-text-2 {
+    margin-left: 817px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-4-2 .u-sheet-1 {
+    min-height: 447px;
+  }
+
+  .u-section-4-2 .u-text-1 {
+    font-size: 6rem;
+    margin-left: 8px;
+  }
+
+  .u-section-4-2 .u-text-2 {
+    margin-left: 597px;
+  }
+}
+
+@media (max-width: 767px) {
+   .u-section-4-2 {
+    background-position: 100% 50%;
+  }
+
+  .u-section-4-2 .u-sheet-1 {
+    min-height: 335px;
+  }
+
+  .u-section-4-2 .u-text-1 {
+    font-size: 5rem;
+    margin-left: 0;
+  }
+
+  .u-section-4-2 .u-text-2 {
+    font-size: 1rem;
+    margin-left: 417px;
+  }
+}
+
+@media (max-width: 575px) {
+   .u-section-4-2 {
+    background-position: 57.82% 50%;
+  }
+
+  .u-section-4-2 .u-sheet-1 {
+    min-height: 381px;
+  }
+
+  .u-section-4-2 .u-text-1 {
+    font-size: 3.75rem;
+    margin-top: 44px;
+  }
+
+  .u-section-4-2 .u-text-2 {
+    width: auto;
+    margin-left: 103px;
+  }
+}
+
+ .u-section-4-3 {
+  background-image: url("/images/Giraffe_zebra_and_buffalo_Arusha_NP_2015_-_2015-01-10.jpg?rand=523e");
+  background-position: 50% 50%;
+}
+
+.u-section-4-3 .u-sheet-1 {
+  min-height: 708px;
+}
+
+.u-section-4-3 .u-text-1 {
+  font-weight: 600;
+  text-transform: uppercase;
+  font-family: Oswald, sans-serif;
+  font-size: 6.875rem;
+  margin: 88px 0 0 428px;
+}
+
+.u-section-4-3 .u-text-2 {
+  letter-spacing: 2px;
+  text-transform: none;
+  font-size: 1.5rem;
+  font-weight: 400;
+  margin: 7px 0 60px 1017px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-4-3 .u-sheet-1 {
+    min-height: 584px;
+  }
+
+  .u-section-4-3 .u-text-1 {
+    margin-left: 228px;
+  }
+
+  .u-section-4-3 .u-text-2 {
+    margin-left: 817px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-4-3 .u-sheet-1 {
+    min-height: 447px;
+  }
+
+  .u-section-4-3 .u-text-1 {
+    font-size: 6rem;
+    margin-left: 8px;
+  }
+
+  .u-section-4-3 .u-text-2 {
+    margin-left: 597px;
+  }
+}
+
+@media (max-width: 767px) {
+   .u-section-4-3 {
+    background-position: 100% 50%;
+  }
+
+  .u-section-4-3 .u-sheet-1 {
+    min-height: 335px;
+  }
+
+  .u-section-4-3 .u-text-1 {
+    font-size: 5rem;
+    margin-left: 0;
+  }
+
+  .u-section-4-3 .u-text-2 {
+    font-size: 1rem;
+    margin-left: 417px;
+  }
+}
+
+@media (max-width: 575px) {
+   .u-section-4-3 {
+    background-position: 57.82% 50%;
+  }
+
+  .u-section-4-3 .u-sheet-1 {
+    min-height: 381px;
+  }
+
+  .u-section-4-3 .u-text-1 {
+    font-size: 3.75rem;
+    margin-top: 44px;
+  }
+
+  .u-section-4-3 .u-text-2 {
+    width: auto;
+    margin-left: 103px;
+  }
+}
